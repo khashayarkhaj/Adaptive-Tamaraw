@@ -1,0 +1,8 @@
+model:
+  name: 'WFT'
+  
+
+train:
+  learning_rate: 0
+  batch_size: 32
+  num_epochs: 10

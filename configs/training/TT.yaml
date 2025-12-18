@@ -1,0 +1,9 @@
+model:
+  name: 'TT'
+  
+
+train:
+  learning_rate: 0.002
+  batch_size: 32
+  num_epochs: 50
+  optimizer: adamax

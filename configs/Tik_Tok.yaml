@@ -1,0 +1,22 @@
+default:
+  OPEN_WORLD: 0
+  MONITORED_SITE_NUM: 95
+  MONITORED_INST_NUM: 1000
+  MONITORED_SITE_START_IND: 0
+  MONITORED_INST_START_IND: 0
+  UNMONITORED_SITE_NUM: 10000
+  CUT_OFF_THRESHOLD: 10
+  CELL_SIZE : 514
+  DUMMY_CODE : 888
+  trace_length : 5000
+  Maximum_Load_Time : 80
+  Time_Slot: 0.044
+  Max_tam_matrix_len: 1000
+  normalize_bursts : True
+  base_directory: "/path/to/application"
+  logging:
+    level: "DEBUG"
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    file: "application.log"
+  data_set_folder: "Tik_Tok"
+  data_set_format : ""
