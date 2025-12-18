@@ -1,6 +1,5 @@
-# check tamaraw switching for clusters on ecdire switching
-# finding the best parameters of tamaraw for each cluster in two_tier clustering
-# check tamaraw switching for clusters on 0% 10% 20% 30% ...
+# check adaptive tamaraw vs sota attacks
+
 import utils.config_utils as cm
 from time import strftime
 import argparse
