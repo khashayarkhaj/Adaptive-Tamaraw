@@ -11,7 +11,6 @@ Official implementation of **"Lightening the Load: A Cluster-Based Framework for
 Adaptive Tamaraw is a website fingerprinting defense that combines the provable security guarantees of regularization-based defenses with the efficiency of adaptive clustering. The defense:
 - Provides **formal, information-theoretic bounds** on attacker success
 - Reduces bandwidth and time overhead by up to **99 percentage points** compared to original Tamaraw
-- Generalizes to **out-of-training websites** unlike supersequence-based defenses
 - Offers **flexible tunability** between privacy and efficiency through the k parameter
 
 
