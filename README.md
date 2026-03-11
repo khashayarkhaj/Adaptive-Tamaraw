@@ -199,15 +199,19 @@ python3 -m experiments.fixed_defenses.Tamaraw.tamaraw_two_tier_vs_attacks \
 
 ![Overhead Comparison Table](results/Table3.png)
 
+
+
 ## Citation
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{khajavi2025lightening,
+@inproceedings{khajavi2026lightening,
   title={Lightening the Load: A Cluster-Based Framework for A Lower-Overhead, Provable Website Fingerprinting Defense},
   author={Khajavi, Khashayar and Wang, Tao},
-  journal={arXiv preprint arXiv:2509.01046},
-  year={2025}
+  booktitle={Proceedings of the Network and Distributed System Security Symposium (NDSS)},
+  year={2026},
+  note={Available at arXiv:2509.01046},
+  url={https://www.ndss-symposium.org/ndss-paper/lightening-the-load-a-cluster-based-framework-for-a-lower-overhead-provable-website-fingerprinting-defense/}
 }
 ```
 
